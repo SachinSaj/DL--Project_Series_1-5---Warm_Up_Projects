@@ -1,1 +1,5 @@
-# DL--Project_Series_1-6---Warm_Up_Projects
+# DL-> Project Series (1-6)---> Warm_Up_Projects
+
+### Project 1: MNIST Classification using Shallow CNN Architecture
+
+### Project 2: CIFAR10 Classification using Shallow CNN Architecture
