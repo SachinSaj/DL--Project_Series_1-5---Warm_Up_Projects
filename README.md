@@ -9,3 +9,8 @@
 ### Project 4: Fashion MNIST Classification using CNN
 
 ### Project 5: Fruit-360 Classification
+
+
+
+
+## *** If any idea / code is been used from this repository, kindly cite our repository / let me know ***
