@@ -3,3 +3,9 @@
 ### Project 1: MNIST Classification using Shallow CNN Architecture
 
 ### Project 2: CIFAR10 Classification using Shallow CNN Architecture
+
+### Project 3: Dogs and Cats Classification using Shallow CNN Architecture
+
+### Project 4: Fashion MNIST Classification using CNN
+
+### Project 5: Fruit-360 Classification
